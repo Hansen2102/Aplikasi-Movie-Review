@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFF"
+        tools:context=".MainActivity"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp">
+
+        <com.mikhaellopez.circularimageview.CircularImageView
+            android:id="@+id/circularImageView"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="37dp"
+            android:src="@drawable/profile"
+            app:civ_border_width="6dp"
+            app:civ_shadow="true"
+            app:civ_shadow_color="@color/cardview_shadow_start_color" />
+
+        <TextView
+            android:id ="@+id/text_profile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/circularImageView"
+            android:layout_alignStart="@+id/circularImageView"
+            android:layout_alignEnd="@+id/circularImageView"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="29dp"
+            android:layout_marginEnd="20dp"
+            android:gravity="center"
+            android:text="@string/profile_name"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/colorprofile"
+            android:textAlignment="inherit"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/text_profile"
+            android:layout_alignStart="@+id/circularImageView"
+            android:layout_alignEnd="@+id/circularImageView"
+            android:layout_marginTop="4dp"
+            android:gravity="center"
+            android:text="@string/profile_email"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@color/colorSubtitle"
+            android:textAlignment="inherit"/>
+
+
+    </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

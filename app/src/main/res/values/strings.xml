@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">NontonKuy!</string>
+    <string name="movie_name">Nama Film</string>
+    <string name="description">Deskripsi</string>
+    <string name="about_page">Profil</string>
+    <string name="image_detail">Detail Foto</string>
+    <string name="profile_name">Hansen Cahyadi</string>
+    <string name="profile_email">a002d4ky3882@bangkit.academy</string>
+    <string-array name="data_name">
+        <item>Argylle(2024)</item>
+        <item>Madame Web (2024)</item>
+        <item>The Fall Guy (2024)</item>
+        <item>Kingdom of the Planet of the Apes (2024)</item>
+        <item>Furiosa: A Mad Max Saga (2024)</item>
+        <item>Ballerina (2024)</item>
+        <item>Twisters (2024)</item>
+        <item>Alien: Romulus (2024)</item>
+        <item>Red One (2024)</item>
+        <item>Gladiator 2 (2024)</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Disutradarai dan diproduksi oleh Matthew Vaughn, Argylle mengisahkan Elly Conway, seorang penulis novel mata-mata introvert yang terperangkap dalam dunia spionase sesungguhnya ketika plot novelnya ternyata menyingkap sebuah sindikat bawah tanah jahat di dunia nyata. Ketika ia diselamatkan oleh seorang mata-mata, Elly tanpa sadar terlibat dalam dunia rahasia di mana sebuah kebenaran besar menunggu untuk disibak.</item>
+        <item>Madame Web menghadirkan nuansa baru di dalam Spider-Man Universe (SSU) yang dikemas oleh Sony, Bunda. Disutradarai oleh S. J. Clarkson, film action Hollywood terbaru ini mengisahkan perjalanan Cassandra Webb, seorang paramedis di Manhattan yang memperoleh kemampuan melihat masa depan setelah mengalami kecelakaan.\n
+            \nDalam upayanya melindungi tiga wanita muda dari ancaman seorang musuh mematikan yang memburu mereka secara membabi buta, Cassie harus berjuang menghadapi bayang-bayang masa lalunya. Siap tayang pada 14 Februari 2024 mendatang, Madame Web menjanjikan pengalaman aksi dan misteri yang segar serta unik dari alam semesta Marvel.</item>
+        <item>Disutradarai oleh David Leitch, The Fall Guy mengisahkan Colt Seavers, seorang stuntman yang terlibat dalam penyelidikan pribadi ketika bintang film yang pernah menggantikannya menghilang di lokasi syuting film yang disutradarai oleh mantan kekasihnya. Dengan premis unik ini, film action Hollywood terbaru ini akan memiliki premier perdananya di SXSW pada Maret 2024 mendatang.\n
+            \nSetelah itu, perilisannya akan meluas di Amerika Serikat oleh Universal Pictures pada 3 Mei 2024. Proses pengembangan The Fall Guy pun dimulai sejak tahun 2010, bahkan mendapat dukungan finansial dari pemerintah Australia. Dengan paduan aksi, komedi, dan kehadiran bintang-bintang papan atas, film action Hollywood terbaru diantisipasi menjadi salah satu tontonan menarik di tahun 2024.</item>
+        <item>Digarap oleh sutradara Wes Ball, cerita dalam Kingdom of the Planet of the Apes berlangsung hampir 300 tahun setelah kejadian War for the Planet of the Apes (2017), Bunda, menampilkan peradaban baru dari spesies kera sementara manusia kembali hidup dalam keadaan liar. Sang protagonis, Noa, seekor simpanse, dan Mae, seorang manusia muda, memulai perjalanan berbahaya ketika pemimpin kera, Proximus Caesar, menyimpang dari ajaran Caesar untuk menundukkan kelompok lain demi menemukan teknologi manusia terakhir.\n
+            \nAkan dirilis pada 10 Mei 2024, film action Hollywood terbaru ini dikembangkan setelah akuisisi 20th Century Fox oleh Disney, dengan produksi utama yang dimulai pada Oktober 2022 dan rampung pada Februari 2023 di Sydney. Dengan trailer teaser yang sudah diunggah di YouTube pada November 2023 lalu, film Kingdom of the Planet of the Apes diharapkan menjadi awal dari trilogi baru dalam franchise Planet of the Apes.</item>
+        <item>Disutradarai oleh George Miller, Furiosa: A Mad Max Saga hadir sebagai prekuel spin-off dari Mad Max: Fury Road (2015), Bunda. Film ini pun dibintangi oleh nama-nama artis populer, Bunda, seperti Anya Taylor-Joy yang akan berperan sebagai protagonisnya, Imperator Furiosa, serta Chris Hemsworth memainkan antagonisnya, Warlord Dementus.\n
+            \nFilm action Hollywood terbaru ini sendiri menceritakan petualangan Furiosa yang diculik dari Green Place of Many Mothers oleh Biker Horde. Sementara dua Tiran bersaing di Citadel, Furiosa bertahan hidup di tanah tandus yang menghampar luas, mencari jalan pulang agar ia bisa kembali ke rumahnya.Dengan syuting utama yang dilakukan di Australia dari Juni hingga Oktober 2022, biaya produksi film action Hollywood terbaru ini menyentuh angka yang fantastis, Bunda, mencapai hingga US$233 juta (Rp36 triliun). Dijadwalkan rilis di Australia pada 23 Mei 2024 dan di Amerika Serikat pada 24 Mei 2024, Furiosa: A Mad Max Saga menawarkan pengalaman aksi pasca-apokaliptik mendebarkan yang dinanti-nantikan dari waralaba Mad Max yang ikonik.</item>
+        <item>Rencananya, Ballerina akan dirilis pada 7 Juni 2024, sebagai spin-off pertama dari waralaba John Wick yang populer, terutama di Indonesia. Disutradarai oleh Len Wiseman, film action Hollywood terbaru mengangkat kisah seorang balerina pembunuh bernama Rooney. Cerita dalam film ini sendiri berlangsung di antara peristiwa John Wick: Chapter 3 – Parabellum (2019) dan John Wick: Chapter 4 (2023), di mana Rooney memulai misi mematikan untuk membalas dendam kematian keluarganya.\n
+            \nDengan kehadiran pemeran seperti Keanu Reeves yang kembali memerankan karakter ikonik John Wick dan Ian McShane sebagai Winston Scott, Ballerina diharapkan membawa genre aksi kembali merajai dengan tontonan action berkualitas dan cerita mendalam yang menampilkan karakter femme fatale.</item>
+        <item>Disutradarai oleh Lee Isaac Chung yang sebelumnya sukses dengan Minari (2020), Twisters merupakan sekuel independen dari film Twister (1996), Bunda. Dijadwalkan rilis pada 19 Juli 2024 mendatang, film action Hollywood terbaru ini mengusung premis bencana alam dengan fokus pada tim pengejar badai yang berupaya memahami perubahan iklim dan aktivitas tornado.\n
+            \nMenyesuaikan tema modern, film ini akan menyelipkan perubahan iklim ke dalam plotnya, menjelaskan dampak perubahan iklim pada aktivitas tornado. Proses pengembangan Twisters dimulai sejak 2020, melibatkan penulis skenario Mark L. Smith dan produser Frank Marshall. Dengan pengambilan gambar utama di Oklahoma, film action terbaru ini diharapkan dapat menjadi bentuk penghargaan yang baik untuk warisan film tahun 1996-nya.</item>
+        <item>Dijadwalkan dirilis pada 16 Agustus 2024, Alien: Romulus merupakan proyek mandiri dari waralaba Alien yang disutradarai oleh Fede Álvarez, Bunda. Menampilkan pemain muda seperti Cailee Spaeny, Isabela Merced, dan David Jonsson, film action Hollywood terbaru ini tentunya juga mengemas genre horor dalam kisahnya, mengambil latar di antara peristiwa Alien (1979) dan Aliens (1986).\n
+            \nCeritanya sendiri berkisah tentang sekelompok pemuda yang berhadapan dengan entitas hidup paling menakutkan di alam semesta, Xenomorph. Direncanakan tayang di Hulu, 20th Century Studios memutuskan untuk merilis Alien: Romulus secara teatrikal setelah menuai tanggapan positif dari produksi sebelumnya. Dengan plot dan karakter yang masih dijaga ketat, film action terbaru dari Hollywood ini berjanji akan kembali ke akarnya.</item>
+        <item>Disutradarai oleh Jake Kasdan dan ditulis oleh Chris Morgan, Red One menjanjikan pengalaman Natal yang orisinal dengan menyatukan aksi spektakuler dan mitologi dari liburan Natal, Bunda. Direncanakan rilis pada 15 November 2024 nanti, cerita dalam film action Hollywood terbaru ini dikembangkan dari gagasan sang produser, Hiram Garcia.\n
+            \nCeritanya sendiri mengikuti petualangan Callum Drift dan Jack O\'Malley yang menghadapi versi rockstar dari Santa Claus, dengan dukungan tambahan seperti Kiernan Shipka, J. K. Simmons, hingga Nick Kroll. Dengan hadirnya film action terbaru dari Hollywood ini, Red One diharapkan menjadi proyek potensial yang merevolusi konsep Natal, terlepas dari penundaan yang dialaminya akibat mogok SAG-AFTRA pada 2023 lalu.</item>
+        <item>Dijadwalkan rilis pada 22 November 2024 nanti, cerita dalam Gladiator 2 terjadi setelah peristiwa film sebelumnya, Gladiator (2000). Disutradarai oleh Ridley Scott, kisah dalam film action Hollywood terbaru ini berfokus pada Lucius, keponakan Commodus yang kini telah dewasa. Dalam kisahnya, ia berusaha mencari kebenaran tentang ayah kandungnya, Maximus.\n
+            \nDengan Paul Mescal yang membintangi perang Lucius, Gladiator 2 menggabungkan bintang-bintang ternama lainnya seperti Denzel Washington, Pedro Pascal, hingga Connie Nielsen. Dengan lokasi syuting yang diambil dari Maroko, Malta, hingga Inggris, film action terbaru dari Hollywood menjanjikan sajian epik dengan plot yang dapat menggugah Bunda serta deretan bintang-bintang kelas dunia.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/argylle</item>
+        <item>@drawable/madame_web</item>
+        <item>@drawable/the_fall_guy_2024</item>
+        <item>@drawable/kingdom_of_the_planet_of_the_apes_2024</item>
+        <item>@drawable/furiosa_a_mad_max_saga_2024</item>
+        <item>@drawable/ballerina_2024</item>
+        <item>@drawable/twisters_2024</item>
+        <item>@drawable/alien_romulus_2024</item>
+        <item>@drawable/red_one_2024</item>
+        <item>@drawable/gladiator2_2024</item>
+    </integer-array>
+
+</resources>
